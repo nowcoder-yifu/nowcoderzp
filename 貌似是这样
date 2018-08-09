@@ -8,6 +8,7 @@
     <input type="text"  value="i try" id="email" />
     <input type="button" value="click" onclick="display()" /> <br>
     congratulation~
+   <img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=570856190,3060238324&fm=27&gp=0.jpg">
 </body>
 ![image](https://github.com/nowcoder-yifu/nowcoderzp/blob/d953f038899f46ed603568e98b1ed2be5a1074ec/u%3D570856190%2C3060238324%26fm%3D27%26gp%3D0.jpg)
 </html>
