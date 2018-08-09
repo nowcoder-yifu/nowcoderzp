@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body >
+    password :
+    <input type="text"  value="i try" id="email" />
+    <input type="button" value="click" onclick="display()" /> <br>
+    congratulation~
+</body>
+</html>
